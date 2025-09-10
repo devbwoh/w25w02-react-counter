@@ -1,3 +1,13 @@
+# 웹 서버 프로그래밍 2025
+
+# Week 02. React Counter
+
+https://nano5.notion.site/React-Counter-229daf211d428132b44def683ca36ffd?source=copy_link
+
+<img width="850" height="483" alt="screen capture" src="https://github.com/user-attachments/assets/089c28a6-5720-4ced-bf3b-ceb46efd9634" />
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
